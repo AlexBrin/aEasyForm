@@ -1,0 +1,7 @@
+name: aEasyForm
+main: AlexBrin\EasyForm\Loader
+version: 1.0.1
+author: AlexBrin
+api:
+  - 3.9
+  - 3.11
